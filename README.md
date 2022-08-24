@@ -3,9 +3,8 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!--BIO-->
-Hello, you can call me `Findus`. I’m `22 years old` and I come from VietNam.
+Hello, you can call me `Findus`. I’m `22 years old` and I come from Viet Nam.
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
 
@@ -24,7 +23,7 @@ Hello, you can call me `Findus`. I’m `22 years old` and I come from VietNam.
 
 
 ## Feel Free To Reach me 📫:
-[![Gmail Badge](https://img.shields.io/badge/-lechtue@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lechtue.com)](mailto:lechtue@gmail.com)
+[![Gmail Badge]([https://img.shields.io/badge/](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)-lechtue@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:lechtue.com)](mailto:lechtue@gmail.com)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lechtue)
 <h5 align="center">Made With ❤️ by Me </h5>
