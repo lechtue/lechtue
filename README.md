@@ -24,6 +24,6 @@ Hello, you can call me `Findus`. I’m `22 years old` and I come from Viet Nam.
 
 ## Feel Free To Reach me 📫:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lechtue@gmail.com)](mailto:lechtue@gmail.com)
-[![Messenger Badge](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white&link=facebook.com/lechtue)]
+[![Messenger Badge](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white&link=href:facebook.com/lechtue)](href:facebook.com/lechtue)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lechtue)
 <h5 align="center">Made With ❤️ by Me </h5>
